@@ -1,0 +1,688 @@
+#nom
+{
+    border: 0.3vh solid #191919;
+    position:absolute;
+    display: block;
+    z-index: 10;
+    bottom: 850px;
+    left: 800px;
+
+
+
+/* Textbutton*/
+}
+#textbutton1
+{
+    /*width: 1860px;*/
+    position:absolute;
+    width: 99%;
+    background-color: #0081b000;
+    border: 1px solid #0081b000;
+    z-index: 2;
+}
+#textbutton2
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton3
+{
+  /*  width: 1860px;*/
+  position:absolute;
+  width: 99%;
+  background-color: #0081b000;
+  border: 1px solid #0081b000;
+}
+#textbutton4
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton5
+{
+  /*  width: 1860px;*/
+  position:absolute;
+  width: 99%;
+  background-color: #0081b000;
+  border: 1px solid #0081b000;
+}
+#textbutton6
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton7
+{
+  /*  width: 1860px;*/
+  position:absolute;
+  width: 99%;
+  background-color: #0081b000;
+  border: 1px solid #0081b000;
+}
+#textbutton8
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton9
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton10
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton11
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton12
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton12bis
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton13
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton14
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton15
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton16
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton17
+{
+   /* width: 1860px;*/
+   position:absolute;
+    width: 99%;
+    background-color: #0081b000;
+    border: 1px solid #0081b000;
+    z-index: 2;
+}
+#textbutton18
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton19
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton20
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+#textbutton21
+{
+   /* width: 1860px;*/
+   position:absolute;
+   width: 99%;
+   background-color: #0081b000;
+   border: 1px solid #0081b000;
+}
+
+/* Textbox*/
+#textbox1
+{
+    background-image: "hebus_1920x1080_1675414797_1345";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+}
+#textbox2
+{
+    background-image: "hebus_1920x1080_1675414797_1345";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox3
+{
+    background-image: "bhebus_1920x1080_1675414797_1345";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox4
+{
+    background-image: "hebus_1920x1080_1675414797_1345";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox5
+{
+    background-image: "hebus_1920x1080_1675414797_1345";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox6
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox7
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox8
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox9
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox10
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox11
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox12
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+
+#textbox13
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox14
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox15
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox16
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox17
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox18
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox19
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+#textbox20
+{
+    background-image: "background-image: url('nature-wallpaper-3151869_1920.jpg";    border: 0.3vh solid #191919;
+    backdrop-filter: blur(10px);
+    margin-top: 730px;
+    height: 200px;
+    display: none;
+}
+
+/* Choix */
+#choix1
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix2
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1050px
+}
+#choix3
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix4
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix5
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    right: 550px;
+}
+#choix6
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix7
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix8
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1050px;
+}
+#choix9
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix10
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix11
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix12
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1050px;
+}
+#choix13
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix14
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix15
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix16
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1050px;
+}
+#choix17
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix18
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix19
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix20
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1050px;
+}
+#choix21
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix22
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix23
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 550px;
+}
+#choix24
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1050px;
+}
+#choix25
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix26
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix27
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+}
+#choix28
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 150px;
+}
+#choix29
+{
+    display: none;
+    position: absolute;
+    bottom: 70px;
+    left: 1450px;
+
+
+}
+
+
+
+/*//////////////////////////////////////Boutton/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+
+
+  .btn-5 {
+    width: 380px;
+    height: 80px;
+    line-height: 62px;
+    padding: 0;
+    border: none;
+    background: rgb(133, 251, 255);
+  background: linear-gradient(0deg, rgba(133, 251, 255) 0%, rgba(133, 251, 255) 100%);
+  }
+  .btn-5:hover {
+    color: rgb(133, 251, 255);
+    background: transparent;
+     box-shadow:none;
+  }
+  .btn-5:before,
+  .btn-5:after{
+    content:'';
+    position:absolute;
+    top:0;
+    right:0;
+    height:2px;
+    width:0;
+    background: rgb(133, 251, 255);
+    box-shadow:
+     -1px -1px 5px 0px #fff,
+     7px 7px 20px 0px #0003,
+     4px 4px 5px 0px #0002;
+    transition:400ms ease all;
+  }
+  .btn-5:after{
+    right:inherit;
+    top:inherit;
+    left:0;
+    bottom:0;
+  }
+  .btn-5:hover:before,
+  .btn-5:hover:after{
+    width:100%;
+    transition:800ms ease all;
+  }
+
+  .btn-8 {
+    background-color: #f0ecfc00;
+  background-image: linear-gradient(315deg, #f0ecfc00 0%rgba(199, 151, 235, 0)eb 74%);
+    line-height: 42px;
+    padding: 0;
+    border: none;
+  }
+  .btn-8 span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  .btn-8:before,
+  .btn-8:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    bottom: 0;
+    background: #c797eb;
+    /*box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .2), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.5),
+      inset 4px 4px 6px 0 rgba(116, 125, 136, .3);*/
+    transition: all 0.3s ease;
+  }
+  .btn-8:before{
+     height: 0%;
+     width: 2px;
+  }
+  .btn-8:after {
+    width: 0%;
+    height: 2px;
+  }
+  .btn-8:hover:before {
+    height: 100%;
+  }
+  .btn-8:hover:after {
+    width: 100%;
+  }
+  .btn-8:hover{
+    background: transparent;
+  }
+  .btn-8 span:hover{
+    color: #c797eb;
+  }
+  .btn-8 span:before,
+  .btn-8 span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    background: #c797eb;
+    /*box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .2), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.5),
+      inset 4px 4px 6px 0 rgba(116, 125, 136, .3);*/
+    transition: all 0.3s ease;
+  }
+  .btn-8 span:before {
+    width: 2px;
+    height: 0%;
+  }
+  .btn-8 span:after {
+    height: 2px;
+    width: 0%;
+  }
+  .btn-8 span:hover:before {
+    height: 100%;
+  }
+  .btn-8 span:hover:after {
+    width: 100%;
+  }
+
+  body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
