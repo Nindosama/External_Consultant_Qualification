@@ -1,0 +1,17 @@
+USE [Test]
+GO
+
+/****** Object:  Table [dbo].[Historique]    Script Date: 24/05/2023 09:41:55 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Historique](
+	[Id] [int] NOT NULL,
+	[Date] [date] NOT NULL,
+	[Résultats] [varchar](50) NOT NULL
+) ON [PRIMARY]
+GO
+
