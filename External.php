@@ -6,16 +6,21 @@
 	<meta lang="fr">
 	<meta name="author" content="Mathéo Boileau">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+   
 
     <!-- CSS/JAVASCRIPT/SCSS/!\ -->
     <script src="External.js"></script>
-	<link rel="stylesheet" type="text/css" href="External.css">
+	<link rel="stylesheet" type="text/css" href="External.css"> 
+
+
 
 </head>
 <!--Fond du site-->
 <body style="background-image: url('hebus_1920x1080_1675414797_1345');">
 
 <!--Général-->
+
+
 <button id="textbutton1">
 <div id="textbox1"> 
     <h1 id="text1">
@@ -50,7 +55,7 @@
 
 <button class="custom-btn btn-5" id="choix1">Freelance </button>
 <button class="custom-btn btn-5" id="choix2">Compagny</button>
-<button class="custom-btn btn-8" id="choix3">Documentation</button>
+<button class="custom-btn btn-8" id="choix3">Documentation/Historique</button>
 
 <!--Freelanceur part-->
 <button id="textbutton4">
@@ -93,6 +98,10 @@
     <div id="textbox6"> 
         <h1 id="text1">
         GET TO KNOW #1 & #2 with decision 
+        <?php
+ $Résultat="GET TO KNOW #1 & #2 with decision ";
+?>
+        
 
         </h1>
     </div>
@@ -105,6 +114,10 @@
         <br>
         <br>
         No need to attend Get to Know #2 as already done in the past for training solutions. 
+
+        <?php
+ $Résultat="GET TO KNOW #1 with decision. No need to attend Get to Know #2 as already done in the past for training solutions.  ";
+?>
 
         </h1>
 
@@ -139,6 +152,11 @@
         <br>
         <br>
         No need to attend Get to Know #2 as already done in the past for consulting solutions. 
+
+        <?php
+ $Résultat="GET TO KNOW #1 with decision. No need to attend Get to Know #2 as already done in the past for consulting solutions. ";
+?>
+        
 </h1>
     </div>
     </button>
@@ -163,6 +181,11 @@
         <br>
         No need to attend Get to Know #2 as already done in the past for KM solutions. 
         </h1>
+
+        <?php
+ $Résultat="GET TO KNOW #1 with decision. No need to attend Get to Know #2 as already done in the past for KM solutions.  ";
+?>
+
     </div>
     </button>
     <button id="textbutton15">
@@ -187,6 +210,9 @@
         <br>
         No need to attend Get to Know #2 as already done in the past for PM solutions. 
      </h1>
+     <?php
+ $Résultat="GET TO KNOW #1 with decision. No need to attend Get to Know #2 as already done in the past for PM solutions.   ";
+?>
     </div>
     </button>
 
@@ -218,7 +244,7 @@
 
 
 
-    <!-- Pour Mag-->
+ 
     <button id="textbutton20">
     <div id="textbox20"> 
         <h1 id="text1">
@@ -226,14 +252,13 @@
    download="MENTIONS LEGALES.pdf">Mention Légales</a>
         <a href="Politique de confidentialité.pdf"
    download="Politique de confidentialité.pdf">Politique de confidentialité</a>
+   <a href="Historique.php"
+   href="Hisorique.php">Historique</a>
         </h1>
    
     </div>
     </button> 
 </body>
-<footer>
-
-</footer>
 </html>
 
 
